@@ -2,3 +2,7 @@
 
 </script>
 
+<template>
+  <div>aaalll</div>
+</template>
+
