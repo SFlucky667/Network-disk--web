@@ -40,14 +40,14 @@ const form = reactive({
    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
 
    .banner {
-     height: 140px;
+     height: 160px;
      width: 100%;
-     background-color: #0094fd;
+     background-color: #005bfd;
 
      &::after {
-         content: "Network disk";
+       content: "Network disk";
        position: absolute;
-       top:30%;
+       top:32%;
        left:50%;
        transform: translate(-50%,-50%);
        color: #fd0022;
