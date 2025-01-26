@@ -13,6 +13,11 @@ const router = createRouter({
       name:'register',
       component:() => import('@views/register/index.vue'),
     },
+    {
+      path:'/',
+      name:'web',
+      component:() => import('@views/web/index.vue'),
+    },
 
   ],
   meta: {

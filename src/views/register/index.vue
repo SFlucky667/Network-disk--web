@@ -54,7 +54,7 @@ const form =reactive({
   }
   .register_from {
     padding: 20px 80px;
-    .item_btn{
+    npm run dev.item_btn{
       margin-bottom:16px;
     }
   }
